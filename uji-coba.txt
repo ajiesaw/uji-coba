@@ -1,5 +1,7 @@
 Uji Coba.
 
-Uji coba berhasil dilakukan.
+
 
 Uji coba edit.
+
+Uji coba hapus poin 1.
